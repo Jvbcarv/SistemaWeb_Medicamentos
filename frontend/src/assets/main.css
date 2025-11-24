@@ -1,0 +1,32 @@
+@import './base.css';
+
+#app {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-weight: normal;
+}
+
+a,
+.green {
+  color: #000000; /* cor do texto da página*/
+}
+
+@media (hover: hover) {
+  a:hover {
+    background-color: hsla(26, 20%, 93%, 0.73); /* cor ao passar o mouse sob a nav*/
+  }
+}
+
+@media (min-width: 1024px) {
+  body {
+    display: flex;
+    place-items: center;
+  }
+
+  #app {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 0 2rem;
+  }
+}
