@@ -54,18 +54,15 @@ Frontend disponível em: http://127.0.0.1:5173/
 ---
 ## Sistema funcionando
 
-- Tela de cadastro de medicamentos:
+- Tela de cadastro de medicamentos:<br><br>
 <img width="1170" height="625" alt="image" src="https://github.com/user-attachments/assets/7807a36b-0816-44a1-8eef-6275fd6fd3a6" /><br>
-- Tela de listagem de medicamentos:
+- Tela de listagem de medicamentos:<br><br>
 <img width="1333" height="707" alt="image" src="https://github.com/user-attachments/assets/c5963ff8-b927-4da6-be1a-50d3a3d18dda" /><br>
-- Tela de cadastro de pacientes:
+- Tela de cadastro de pacientes:<br><br>
 <img width="1322" height="719" alt="image" src="https://github.com/user-attachments/assets/af20fd38-30fd-4b43-80ec-3d4184b0850c" /><br>
-- Tela de Registro de Uso/Retirada de medicamentos:
+- Tela de Registro de Uso/Retirada de medicamentos:<br><br>
 <img width="1263" height="913" alt="image" src="https://github.com/user-attachments/assets/9ec20ff5-f73c-4471-bf71-b505cdb2548d" /><br>
-- Tela de Listagem de Registros Ativos:
+- Tela de Listagem de Registros Ativos:<br><br><br>
 <img width="1400" height="814" alt="image" src="https://github.com/user-attachments/assets/729d782e-c93c-438b-9825-4ae57c4353e1" />
-
-- 
-
 
 
